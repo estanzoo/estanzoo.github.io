@@ -1,7 +1,7 @@
 # ISP: Blog
 ## By: Ethan Zhu  
 
-# Description:
+## Description:
 This is a blog that will be updated weekly that will include the progress on our ISP project.  
 
 ## Entries:  
