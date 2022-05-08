@@ -1,6 +1,7 @@
 # ISP: Blog
 ## By: Ethan Zhu
-## Weekly Entries:  
+>This is a blog that will be updated weekly that will include the progress on our ISP project.
+## Entries:  
 
 ### Entry: May 06, 2022
 Today marks the beginning of ISP project. Our team, consisting of Sean Zhang, Leo Liu and myself have named ourselves "Common Ideas".  
