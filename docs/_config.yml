@@ -21,7 +21,7 @@
 title: Normal Ideas
 email: normalideas@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A weekly blog update on the newest project from *Normal Ideas*
+  A weekly blog update on the newest project from Normal Ideas
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
