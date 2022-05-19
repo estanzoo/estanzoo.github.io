@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Post #3"
+date:   2022-05-19 08:00:00 -0000
+categories: jekyll update
+---
+As of today, *Normal Ideas* has finished styling the first room and has completed the screenshots required to implement the room in the game. 
+We have also started to create the menu screen, however, we have found little success in implementing user input in the GUI. After careful
+consideration, we have deicded to begin the transition from Java's Swing to Javafx in order to simplify the process going forward. There will
+be more updates as to whether or not this transition is succesful or not.
+
+
