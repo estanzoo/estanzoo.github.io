@@ -28,7 +28,7 @@ twitter_username: Normal.Ideas
 github_username:  estanzoo
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
