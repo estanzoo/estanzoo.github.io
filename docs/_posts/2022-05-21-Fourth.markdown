@@ -5,6 +5,8 @@ date:   2022-05-21 08:00:00 -0000
 categories: jekyll update
 ---
 
+###### Author: Ethan
+
 As of today we have finished the transition from Swing to Javafx. We have found Javafx significantly easier to work with and we have made
 noticeable progress on our project, finishing the menu page as well as starting to implement Room 1 all in one day.  
 
