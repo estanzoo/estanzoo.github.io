@@ -4,7 +4,7 @@ title:  "Post #2"
 date:   2022-05-16 08:00:00 -0000
 categories: jekyll update
 ---
-###### Author: Ethan
+##### Author: Ethan
 
 Today we assigned roles to the team members are started writing basic code for the framework of the game such as an interface for the seperate levels.
 
