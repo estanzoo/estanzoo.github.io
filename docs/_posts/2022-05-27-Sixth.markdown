@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Post #6"
+date:   2022-05-27 08:00:00 -0000
+categories: jekyll update
+---
+
+##### Author: Ethan
+
+We have finished Room 1 as of today. Even though we plan on adding more details, we plan to prioritize finishing other rooms before working
+on some of the more finer details.  
+
+There was one major issue that we encountered near the end of the level: we couldn't let the main class/method know that the level has been beated.
+Since the  ```setOnMouseClicked``` is written in the LevelOne class instead of in the main class for organization, if we were to write another 
+```setOnMouseClicked``` lambda inside main, the one in LevelOne would be overwritten, thus rendering it useless. We also can't change scenes in LevelOne
+class, since it doesn't have access to the stage.  
+
+The solution that we came up with for now is to change the way that changing scenes worked. Instead of using ```setOnMouseClicked```, we used ```setOnKeyPressed```,
+which will prevent the overwritting of ```setonMouseClicked```. The downside of this solution is that it disrupts the consistency of the game, which means it
+might need to be improved.  
+
+For now, we have decided to finish implementing and modelling Room 2.
