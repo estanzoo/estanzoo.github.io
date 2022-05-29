@@ -17,6 +17,6 @@ class, since it doesn't have access to the stage.
 
 The solution that we came up with for now is to change the way that changing scenes worked. Instead of using ```setOnMouseClicked```, we used ```setOnKeyPressed```,
 which will prevent the overwritting of ```setonMouseClicked```. The downside of this solution is that it disrupts the consistency of the game, which means it
-might need to be improved.  
+might need to be improved in the future.  
 
 For now, we have decided to finish implementing and modelling Room 2.
