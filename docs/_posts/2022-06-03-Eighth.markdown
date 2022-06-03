@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Post #9"
+date:   2022-06-03 08:00:00 -0000
+categories: jekyll update
+---
+
+##### Author: Ethan  
+
+We are making significant progress! We finished basically all of Room 2 in less than 2 days, which is a feat that I am extremely proud of my team for, since
+Room 1 took us almost a week and a half to finish.
+
+This was, however, not a easy task. Half way through writing the code, we noticed another potentially destructive flaw that our program had: since the player, after
+they lose, is transported back to the menu screen, we need to somehow reset every level in the game for them to play again. However, with Javafx's scenes, that is hard to do.
+Not only can't we modify variables inside lambdas, we also cannot use the same method we used last time (AtomicReference) to store scenes. 
+
+After around 2 hours of tinkling and research, I've found a way to work around this problem: Instead of writing and initializing the code in the ```start``` method, which is
+the method overriden from the Application class that automatically runs when the program is run, we write that in a ```startGame``` method, which will be called in the ```start```
+method. Whenever we need to re-initalize everything, we simply re-run that method.
+
+We are now working on focusing our game to be more focused on one specific target audience, as well as fine-tuning the dialogue and to reflect some of the research we've done.
+We plan to finish coding the game by Wednesday June 8th, and we will spend Thursday and Friday de-bugging and making the game look better visually.
+
+
