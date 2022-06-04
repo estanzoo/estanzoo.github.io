@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Post #10"
+date:   2022-06-04 08:00:00 -0000
+categories: jekyll update
+---
+
+##### Author: Ethan  
+
+As I was writing my code for Room 2, I suddenly thought of something that works much better for our game:
+
+As of right now, we have many boolean variables to keep track of whether or not the player has done an action, for example, ```keyGone``` represents whether or not the player
+has taken the key, and so on. This makes the number of variables very high, which gets hard to manage. My solution to this is to keep one integer variable called ```status```.
+It will represent the current status of the player. For example, the default status can be 0. If the player has taken the key, the status can be made to be equal to 1.
+The status will keep changing further into the game. Although this can cut down the number of variables by a lot, there are also disadvantages. When using status, the game storyline
+has to be very linear, with little to no parallel-operations and action branches. If those were to exist, status would be hard to manage. Using status can also be confusing,
+since you would have to keep referring back to your old code to determine what each status means (or you can just write a table to keep track of it, which takes a lot of time).
+
+Overall, I think I'm not going to fully convert our code to status-based, and rather keep it a combination of both.
+
