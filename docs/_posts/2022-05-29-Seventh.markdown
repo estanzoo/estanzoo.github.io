@@ -4,6 +4,7 @@ title:  "Post #7"
 date:   2022-05-29 08:00:00 -0000
 categories: jekyll update
 ---
+![Blender Model](/docs/assets/model.png)
 
 ##### Author: Sean
 
