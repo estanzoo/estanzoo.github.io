@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Post #12"
+date:   2022-06-09 08:00:00 -0000
+categories: jekyll update
+---
+
+##### Author: Leo
+
+As of today, we were able to implement the fade in and out animation for the logo and the game splashscreen. We are currently working on our Room 3, which includes the resolution of our conflict as well as the ending to our game. One issue that we noticed in our game is the long delay between the animation of the splashscreen and the displaying of our game. This problem is due to the long load times it takes to load up all of our high resolution images created in Blender. One potential solution to this is to load each scene as it is needed, instead of loading them all together at the beginning. However, we believe that this would cause more of an inconvenience to the user, and we have decided to keep the loading of the images at the very beginning.
