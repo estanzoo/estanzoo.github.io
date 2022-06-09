@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Post #5"
+date:   2022-05-26 08:00:00 -0000
+categories: jekyll update
+---
+
+##### Author: Leo
+
+As of today, we have finished creating room 1, with a working key as well as the ability to look around the room. 
+The only thing remaining for room 1 is opening the chest using the key, meeting and talking to the banana, 
+as well as leaving the room. While creating the key, we discovered that it is not possible to change the value of a 
+variable in a lambda function, so we ended up going to StackOverflow and using AtomicRefernce to solve this issue.
+The following is a snipet of the code:
+
+```
+AtomicReference<Integer> a = new AtomicReference<>(0);
+```
+
+This is equivalent to 
+
+```
+int a = 0;
+```
+
+Except it is able to be edited inside lambdas.

@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Post #7"
+date:   2022-05-29 08:00:00 -0000
+categories: jekyll update
+---
+
+##### Author: Sean
+
+So for the graphics I used blender to make them. 
+I made the room and placed the 3d models around. 
+We decided to go this way instead of pixel art, which a 
+lot of people are doing, because it helps make our game 
+stand out and also good pixel art is hard to make and none of 
+us have that kind of skill. I had a TON of trouble with room 1 
+despite it being smaller and less complex. I was still getting 
+used to blender. Eventually I got into a flow and now have 
+learned how to make the rooms. The second room took substantially
+ less time than the first. The second room has a very bleak feel to it. 
+Whereas the first room was all tidy and neat, the second room had concrete walls and
+ rusted things. It shows the decline in the banana’s mental health. I have still yet 
+to add the second part to the second room however.

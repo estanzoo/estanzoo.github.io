@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Post #8"
+date:   2022-05-31 08:00:00 -0000
+categories: jekyll update
+---
+
+##### Author: Ethan  
+
+We have, as of today, finished all of room 1, including some additional images that we were planning to add. Even though this is quite an achievement, there are still two more rooms
+to implement, which are arguably harder than room 1.
+
+However, since we already have most of the framework done, we can just copy things over and change images to implement later stages of the game.
+
+We plan to completely finalize the ending of the game this week so that Sean can finish the modelling. At the same time, Leo will be implementing part 1 of room 2. As for me, I will be 
+simply helping both of them for any work they have as well as adding more creative elements to the game.
+
+
