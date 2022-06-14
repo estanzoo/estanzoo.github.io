@@ -4,7 +4,7 @@ title:  "Post #7"
 date:   2022-05-29 08:00:00 -0000
 categories: jekyll update
 ---
-![Blender Model]([../assets/model.png](https://github.com/estanzoo/estanzoo.github.io/blob/master/docs/assets/model.png?raw=true))
+![Blender Model](https://github.com/estanzoo/estanzoo.github.io/blob/master/docs/assets/model.png?raw=true)
 
 ##### Author: Sean
 
